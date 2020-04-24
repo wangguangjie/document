@@ -1,12 +1,11 @@
-<img width="180px" style="border-radius: 50%" bor src="https://nodejsred.oss-cn-shanghai.aliyuncs.com/nodejs_roadmap-logo.jpeg?x-oss-process=style/may">
+<img width="120px" style="border-radius: 50%" bor src="img/icon.png">
 
-# Node.js技术栈指南
+## The Document of Guangjie 
 
-- 本文档是作者从事 ```Node.js Developer``` 以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈，如果本文能为您得到帮助，请给予支持！
+- 个人文档仓库 
+[![stars](https://badgen.net/github/stars/wangguangjie/document?icon=github&color=4ab8a1)](https://github.com/wangguangjie/document) [![forks](https://badgen.net/github/forks/wangguangjie/document?icon=github&color=4ab8a1)](https://github.com/wangguangjie/document)
 
-[![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap)
-
-[GitHub](<https://github.com/Q-Angelo/Nodejs-Roadmap>)
+[GitHub](<https://github.com/wangguangjie/document>)
 [开始阅读](README.md)
 
 
